@@ -10,6 +10,7 @@ This repository covers my personal DNS server setup built on Debian 13 with Pi-h
 - Integration with a Cisco Catalyst switch for VLAN-based experimentation and working within my network infrastructure.
 - Documentation and notes for future expansion (e.g., media server)
 ---
+## Screenshot showcase:
 ![Workflow Filtering](/images/workflow-filtering.png)  
 *Workflow Filtering*
 
