@@ -1,6 +1,6 @@
 ## Network Infrastructure Overview
 
-This document explains the network design that supports my DNS server and provides the foundation for future services.
+This document covers the network design that supports my DNS server and provides the foundation for future services.
 </br>
 
 
