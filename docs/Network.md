@@ -10,7 +10,7 @@ This document covers the network design that supports my DNS server and provides
 - ISP Modem/Router | WAN Gateway | Provides internet access & Wi-Fi for clients. 
 
 - Cisco Catalyst Switch | Wired Core | Connects wired devices, VLAN/QoS capable. 
-- Debian ThinkCentre Server | DNS Server | Hosts Pi-hole + Unbound and DNS workflow scripts. Storage for future expansion. 
+- Debian ThinkCentre Server | Server | Hosts Pi-hole + Unbound and DNS workflow scripts.
 - External Hard Drives | Storage. 
 
 ---
