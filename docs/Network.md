@@ -47,6 +47,3 @@ Wireless clients connect through the ISP router, and use the DNS server w/ basel
 A media server (Plex/Jellyfin) may be integrated into the network, supported by QoS and VLAN separation.
   
 - **iPhone 4 Network Dashboard** (yes really) - periodically scans the network for active devices, logs device status over time, and displays the results on a lightweight dashboard
-
----
-
