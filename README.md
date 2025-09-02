@@ -14,8 +14,8 @@ This repository covers my personal DNS server setup built on Debian 13 with Pi-h
 ### *Workflow Selection Script*  
 ![Workflow Filtering](/images/workflow-filtering.png)
 
-*Updater Script*  
+### *Updater Script*  
 ![Updater](/images/updater.png)
 
-*Statistics*  
+### *Statistics*  
 ![Statistics](/images/statistics.png)
