@@ -1,0 +1,9 @@
+github.com
+mail.google.com
+linkedin.com
+indeed.com
+monster.com
+facebook.com
+stackoverflow.com
+chatgpt.com
+tiktok.com

@@ -1,0 +1,14 @@
+## For adlists, I use Hagezi's blocklists + StevenBlack's. CREDITS TO THEM.
+# These are all under "baseline", and they remain on regardless of my currently activated group.
+
+# Hagezi DNS Blocklists
+# https://github.com/hagezi/dns-blocklists
+
+# StevenBlack's Blocklist
+https://github.com/StevenBlack/hosts
+
+## Lists: ##
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.roku.txt
