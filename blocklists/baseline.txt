@@ -7,7 +7,7 @@
 # StevenBlack's Blocklist
 https://github.com/StevenBlack/hosts
 
-## Lists: ##
+## Lists: 
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt
