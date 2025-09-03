@@ -27,7 +27,7 @@ The Cisco switch brings enterprise practices into the home lab environment.
 - SNMP for monitoring the network.
 
 
-Wireless clients connect through the ISP router, and use the DNS server w/ baseline profile as their resolver.
+Wireless clients connect through the ISP router, and use the DNS server w/ baseline profile enabled.
 
 ---
 
