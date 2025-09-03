@@ -21,7 +21,7 @@ The Cisco switch brings enterprise practices into the home lab environment.
 
 - SSH Access for secure management.
 - Security Technologies Port security, DAI, and DHCP Snooping. 
-= Syslog Logging for events and port changes.
+- Syslog Logging for events and port changes.
 - QoS Ready for traffic prioritization (useful for future media server/VoIP).
 - VLAN Segmentation for isolating Work, Study, Leisure, and Media traffic.
 - SNMP for monitoring the network.
