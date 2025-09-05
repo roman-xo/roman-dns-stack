@@ -9,7 +9,7 @@ This repository covers my personal DNS server setup built on Debian 13 with Pi-h
 - Workflow-based domain filtering via bash scripts (Study, Work, Leisure)
 - Integration with a Cisco Catalyst switch for VLAN-based experimentation and working within my network infrastructure.
 - Documentation and notes for future expansion (e.g., media server)
----
+
 ## Screenshot showcase:
 ### *Workflow Selection Script*  
 ![Workflow Filtering](/images/workflow-filtering.png)
