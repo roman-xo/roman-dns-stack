@@ -3,7 +3,7 @@
 
 This repository covers my personal DNS server setup built on Debian 13 with Pi-hole and Unbound. 
 
-## Features include:
+## Features :
 - Private recursive DNS resolver with **Unbound**
 - Network-level ad-blocking and privacy protection with **Pi-Hole**
 - Workflow-based domain filtering via bash scripts (Study, Work, Leisure)
