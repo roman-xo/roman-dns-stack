@@ -1,4 +1,4 @@
-## For adlists, I use Hagezi's blocklists + StevenBlack's. CREDITS TO THEM.
+# For adlists, I use Hagezi's blocklists + StevenBlack's. CREDITS TO THEM.
 # These are all under "baseline", and they remain on regardless of my currently activated group.
 
 # Hagezi DNS Blocklists
